@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE6120C11B68C2C100BCEF8D /* iranian_sans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEB9A4A71B68ABE500C31DBF /* iranian_sans.ttf */; };
 		EE8E87281B67ABC100BDA790 /* stars-empty.png in Resources */ = {isa = PBXBuildFile; fileRef = EE8E87271B67ABC100BDA790 /* stars-empty.png */; };
 		EE8E872A1B67AC0900BDA790 /* s.png in Resources */ = {isa = PBXBuildFile; fileRef = EE8E87291B67AC0900BDA790 /* s.png */; };
 		EEBBD8C71B674EA900E772A9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EEBBD8C61B674EA900E772A9 /* main.m */; };
@@ -258,6 +259,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE6120C11B68C2C100BCEF8D /* iranian_sans.ttf in Resources */,
 				EE8E872A1B67AC0900BDA790 /* s.png in Resources */,
 				EEBBD8F41B6755EA00E772A9 /* bc.png in Resources */,
 				EEBBD9021B67719F00E772A9 /* arrow_back.png in Resources */,
